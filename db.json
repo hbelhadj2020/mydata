@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "hello",
+      "label": "label",
+      "url": "url"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
